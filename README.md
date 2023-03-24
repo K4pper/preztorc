@@ -1,0 +1,2 @@
+# preztorc
+My preztorc config
